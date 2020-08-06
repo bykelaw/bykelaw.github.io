@@ -1,4 +1,4 @@
-h1{ transition: all 0.7s}
+h1{ transition: all 0.7s;}
 h1:hover{
 border: 3px double red;
 background-color:red;}
